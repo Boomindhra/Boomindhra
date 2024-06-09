@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boomindhra
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java,javascript
+- 🌱 I’m currently learning java,javascriptand frontend libraries
 - 📫 How to reach me emailid indhran1809@gmail.com
 
 
